@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yangg12894
-- 👀 I’m interested in Data Science and Analytics.
-- 🌱 I’m currently learning Business Analytics.
-- 💞️ I’m looking to collaborate on Data or Business Analytics using Python or SQL.
+- 👋 Hi, I’m Yang, currentley a graduate student at Bentley University studying Business Analytics
+- 👀 I’m interested in Data and Analytics.
+- 🌱 I’m passionate about building a sustainable future. 
+- 💞️ I’m looking forward to meet and collaborate on Data or Business Analytics with people like-minded.
 - 📫 How to reach me ...
 
 <!---
